@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    width: 980px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    /* background-image: url(my wallpaper); */
+}
+
+h1 {
+
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+.main-navigation{
+    border-bottom: 3px solid #cccccc;
+    background-color: #fff;
+}
+.navbar-logo {
+    background-color: #4aaaa5;
+    padding: 30px 20px 30px 20px;
+    color: #fff;
+    margin-top: -5px;
+}
+
+.menu-items {
+    margin-top:10px;
+}
+
+.second-item {
+    border-right: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.bg-light {
+    background-color: #fff!important;
+}
+
+.main-content{
+    border: 2px solid #ccc;
+    background-color: #fff;
+    margin-top: 50px;
+}
+
+.main-content-header {
+    width: 250px;
+    margin: 20px 0 20px 0;
+    border-bottom: 3px #ccc;
+}
