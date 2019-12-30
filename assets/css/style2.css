@@ -1,0 +1,82 @@
+html {
+    height: 100%;
+    display: grid;
+    box-sizing: border-box;
+}
+
+.container {
+    min-height: 100%;
+    position: relative;
+    overflow: auto;
+    
+
+}
+    
+    
+
+
+
+
+
+.name {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: #4aaaa5;
+    color: #ffffff;       
+    padding: 30px;
+    border-top: 1px solid #777;
+    border-right: 1px solid #777;
+    border-left: 1px solid #777;
+    position: relative;
+    top: 17px; left: 200px;
+    float: left;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.wrapper {
+    clear: both;
+    padding-bottom: 58px;
+    border-top: 1px solid #777;
+    background-image: url("../images/vintage-concrete.PNG");
+    height: auto;
+    position: absolute;
+    width: 100%;
+    top: 135px;
+    
+    
+ 
+ }
+
+
+
+
+footer {
+    clear: both;
+    overflow: auto;
+    width: 100%;
+    height: 50px;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 70px;
+    position: relative;
+    bottom: -10px;
+    left: -10px;
+
+}
